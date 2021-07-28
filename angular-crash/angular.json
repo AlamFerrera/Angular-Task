@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-crash"
+  "defaultProject": "angular-crash",
+  "cli": {
+    "analytics": false
+  }
 }
